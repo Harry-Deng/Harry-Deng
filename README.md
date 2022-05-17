@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align>="center">你好，陌生人 👋</h1>
 
 <!--
 **Harry-Deng/Harry-Deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

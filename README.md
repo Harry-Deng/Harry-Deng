@@ -8,24 +8,23 @@
 
 - 👨‍💻 我最近在开发 CANBusGuardian 项目，有兴趣看看吗👉(https://github.com/Harry-Deng/CANBusGuardian).
 
-
+---
 
 <br>
-
 <p align="center">
   <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=buefy">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?usernameHarry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=buefy">
     -->
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=buefy">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api?usernameHarry-Deng&theme=buefy">
     -->
   </a>
 </p>

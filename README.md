@@ -8,12 +8,10 @@
 
 - 👨‍💻 我最近在开发 CANBusGuardian 项目，有兴趣看看吗👉(https://github.com/Harry-Deng/CANBusGuardian).
 
-https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
 
-
-
+<p align="center">
 [![Anuvrag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
-
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
 <!--

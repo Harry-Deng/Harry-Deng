@@ -8,6 +8,7 @@
 
 - 👨‍💻 我最近在开发 CANBusGuardian 项目，有兴趣看看吗👉(https://github.com/Harry-Deng/CANBusGuardian).
 
+https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
 
 
 

@@ -9,12 +9,12 @@
 - 👨‍💻 我最近在开发 CANBusGuardian 项目，有兴趣看看吗👉(https://github.com/Harry-Deng/CANBusGuardian).
 
 
-<p align="center">
-   <a [![Anuvrag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)>
-   </a>
-</p>
-
+[![Anuvrag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)>
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
+                 
+ 
 <!--
 **Harry-Deng/Harry-Deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

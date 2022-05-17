@@ -1,6 +1,6 @@
 <h1 align="center">你好，陌生人 👋</h1>
-- 🔭 I’m currently working on developing CANBusGuardian (https://github.com/Harry-Deng/CANBusGuardian)
-- 🌱 I’m currently learning Cryptograghy.
+- 🦾 I’m currently working on developing CANBusGuardian (https://github.com/Harry-Deng/CANBusGuardian).
+- 👨‍💻 I’m currently learning Cryptograghy.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&bg_color=#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)

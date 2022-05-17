@@ -1,7 +1,7 @@
 <h1 align="center">你好，陌生人 👋</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=DEG,#F4E2D8,#BA5370)](https://github.com/Harry-Deng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&bg_color=DEG,#F4E2D8,#BA5370)](https://github.com/Harry-Deng)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&bg_color=DEG,#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&bg_color=DEG,#12c2e9,#c471ed,#f64f59)](https://github.com/Harry-Deng)
 <!--
 **Harry-Deng/Harry-Deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

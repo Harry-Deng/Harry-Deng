@@ -3,7 +3,7 @@
 - 😎 我是Harry，来自中国。
 
 
-- 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街，钟爱零卡饮食🍔。
+- 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街，笑容纯真😁，钟爱零卡饮食🍔。
 
 
 - 👨‍💻 我最近在开发 CANBusGuardian 项目，有兴趣看看吗👉(https://github.com/Harry-Deng/CANBusGuardian).

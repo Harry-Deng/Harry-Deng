@@ -24,7 +24,7 @@
   <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=tokyonight">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?usernameHarry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=buefy">
     -->
   </a>
 </p>

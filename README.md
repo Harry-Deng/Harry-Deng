@@ -23,6 +23,10 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+ 
+  
+<p align="center">
   <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=tokyonight">
     <!-- &hide=issues

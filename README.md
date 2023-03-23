@@ -6,7 +6,7 @@
 - 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街🔪，笑容纯真😁，钟爱零卡饮食🍔。
 
 
-- 🚗 我最近在研究VANET的隐私问题.
+- 🚗 我最近在研究VANET的隐私问题。
 
 ---
 
@@ -24,7 +24,7 @@
   <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=tokyonight">
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=bg_color=00000000">
     -->
   </a>
 </p>

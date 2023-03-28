@@ -1,4 +1,4 @@
-<h1 align="center">![Hi](https://user-images.githubusercontent.com/72896380/228302973-575922de-4a4d-478f-a885-4feeb509fb8d.png)</h1>
+![Hi](https://user-images.githubusercontent.com/72896380/228302973-575922de-4a4d-478f-a885-4feeb509fb8d.png)
 
 - 😎 I am Harry，from China.
 

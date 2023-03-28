@@ -1,6 +1,4 @@
-<h1 align="center">你好，陌生人 👋</h1>
-
-![切图 1](https://user-images.githubusercontent.com/72896380/228302443-590c31f6-c54c-4d0f-b6ff-065e2c3b56d5.png)
+<h1 align="center">![Hi](https://user-images.githubusercontent.com/72896380/228302973-575922de-4a4d-478f-a885-4feeb509fb8d.png)</h1>
 
 - 😎 I am Harry，from China.
 

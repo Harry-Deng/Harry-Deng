@@ -1,7 +1,10 @@
 ![Hi](https://user-images.githubusercontent.com/72896380/228305630-4457fd5d-ec30-4a20-b312-15568562e851.png)
-About me
 
-- 😎 I am Harry，from China.
+**About me**
+
+- 🏫 I am a junior undergraduate student majoring in Cybersecurity.
+
+- 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
 - 🚗 I have been recently researching privacy protection issues in VANETs.
 

@@ -6,7 +6,7 @@
 - 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街🔪，笑容纯真😁，钟爱零卡饮食🍔。
 
 
-- 🚗 我最近在研究VANET的隐私问题和云际计算。
+- 🚗 我最近在研究VANET的隐私问题。
 
 ---
 
@@ -22,23 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
- 
-  
-<p align="center">
-  <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=tokyonight">
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&theme=bg_color=00000000">
-    -->
-  </a>
-</p>
 <br> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

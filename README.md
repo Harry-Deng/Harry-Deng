@@ -1,11 +1,9 @@
-![Hi](https://user-images.githubusercontent.com/72896380/228305129-3a4a7add-cdd0-46d3-aef8-d355355d3757.png)
+![Hi](https://user-images.githubusercontent.com/72896380/228305630-4457fd5d-ec30-4a20-b312-15568562e851.png)
+About me
 
 - 😎 I am Harry，from China.
 
-- 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街🔪，笑容纯真😁，钟爱零卡饮食🍔。
-
-
-- 🚗 我最近在研究VANET的隐私问题。
+- 🚗 I have been recently researching privacy protection issues in VANETs.
 
 ---
 

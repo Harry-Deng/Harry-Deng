@@ -1,7 +1,7 @@
 <h1 align="center">你好，陌生人 👋</h1>
 
+![切图 1](https://user-images.githubusercontent.com/72896380/228302443-590c31f6-c54c-4d0f-b6ff-065e2c3b56d5.png)
 
-![hello](https://user-images.githubusercontent.com/72896380/228301561-729813ae-aaa4-41ab-9d1c-1397ee5c36ae.svg)
 - 😎 I am Harry，from China.
 
 - 💬 本人擅长摸鱼🐟，精通摆烂🎮，住在沈阳大街🔪，笑容纯真😁，钟爱零卡饮食🍔。

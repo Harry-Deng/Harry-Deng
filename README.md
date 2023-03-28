@@ -10,19 +10,8 @@
 
 ---
 
-<br>
-<p align="center">
-  <a href="https://github.com/Harry-Deng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=tokyonight">
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&theme=buefy">
-    -->
-  </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
-<br> 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| ------------- | ------------- |
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

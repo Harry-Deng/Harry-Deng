@@ -19,3 +19,10 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+---
+<p>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+
+
+<p>

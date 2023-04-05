@@ -6,7 +6,7 @@
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
-- 🚗 I have been recently researching privacy protection issues in VANETs.
+- 🚗 I have been recently researching security & privacy protection issues in VANETs.
 
 ---
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

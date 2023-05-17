@@ -2,7 +2,7 @@
 
 **About me**
 
-- 🏫 I am a junior undergraduate student majoring in Cybersecurity.
+- 🏫 I am a junior undergraduate student majoring in Information Security.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 

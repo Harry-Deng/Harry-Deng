@@ -6,7 +6,9 @@
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
-- 🚗 I have been recently researching: 1.Security and Privacy Protection in VANETs 2.Distributed Trading Environment in JointCloud Computing
+- I have been recently researching: 
+- 🚗 1.Security and Privacy Protection in VANETs
+- ☁️ 2.Distributed Trading Environment in JointCloud Computing
 
 ---
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

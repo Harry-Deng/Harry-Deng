@@ -7,7 +7,7 @@
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
 - I have been recently researching:
-- 🤖 1. Ssecurity issues of combining LLM with robotic vision
+- 🤖 1. Security issues of combining LLM with robotic vision
 - 🚗 2. Security and Privacy Protection in VANETs
 
 ---

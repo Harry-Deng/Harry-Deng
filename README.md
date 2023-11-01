@@ -10,11 +10,11 @@
 <br>
 
 **I have been recently researching**
-- ⚔️ An attack scheme targeting large models in text-generated graphs
+- ⚔️ An attack scheme targeting large models in text-generated graphs.
   
-- 🤖 Security issues of combining LLM with robotic vision
+- 🤖 Security issues of combining LLM with robotic vision.
 
-- 🚗 Security and Privacy Protection in VANETs
+- 🚗 Security and Privacy Protection in VANETs.
 <br>
 
 <!-- 

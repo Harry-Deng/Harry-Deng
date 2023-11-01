@@ -10,12 +10,6 @@
 - 🤖 1. Security issues of combining LLM with robotic vision
 - 🚗 2. Security and Privacy Protection in VANETs
 
----
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Carpe%20Diem.&font=Fira%20Code&center=true&color=C197F9&vCenter=true&size=30&pause=1000&width=575&duration=2500"></a>
-</p>
-
 **I am able to utilize these tools**
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -25,6 +19,13 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <p>
 
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harry's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
+---
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Carpe%20Diem.&font=Fira%20Code&center=true&color=C197F9&vCenter=true&size=30&pause=1000&width=575&duration=2500"></a>
+</p>

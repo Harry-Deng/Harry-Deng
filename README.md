@@ -7,6 +7,7 @@
 - 🏫 I am currently working as a Research Assistant at **HKUST**-GZ, conducting research related to Security4AI.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
+<br>
 
 **I have been recently researching**
 - ⚔️ An attack scheme targeting large models in text-generated graphs
@@ -14,6 +15,7 @@
 - 🤖 Security issues of combining LLM with robotic vision
 
 - 🚗 Security and Privacy Protection in VANETs
+<br>
 
 <!-- 
   <br><br>
@@ -23,7 +25,7 @@
   <br>
        🚗 3. Security and Privacy Protection in VANETs.
 -->
-<br>
+
 
 **I am able to utilize these tools**
 <br>

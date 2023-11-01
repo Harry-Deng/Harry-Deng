@@ -9,13 +9,20 @@
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
 **I have been recently researching**
-  <br><br>
-       ⚔️ 1. An attack scheme targeting large models in text-generated graphs
-  <br>
-       🤖 2. Security issues of combining LLM with robotic vision
-  <br>
-       🚗 3. Security and Privacy Protection in VANETs
+- ⚔️ An attack scheme targeting large models in text-generated graphs
+  
+- 🤖 Security issues of combining LLM with robotic vision
 
+- 🚗 Security and Privacy Protection in VANETs
+
+<!-- 
+  <br><br>
+       ⚔️ 1. An attack scheme targeting large models in text-generated graphs.
+  <br>
+       🤖 2. Security issues of combining LLM with robotic vision.
+  <br>
+       🚗 3. Security and Privacy Protection in VANETs.
+-->
 <br>
 
 **I am able to utilize these tools**

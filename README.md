@@ -33,7 +33,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harry's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
----
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">

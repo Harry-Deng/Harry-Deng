@@ -2,7 +2,9 @@
 
 **About me**
 
-- 🏫 I am a senior undergraduate student majoring in Information Security. And I am currently working as a Research Assistant at HKUST-GZ, conducting research related to Security4AI.
+- 🎓 I am a senior undergraduate student majoring in Information Security.
+
+- 🏫 I am currently working as a Research Assistant at **HKUST**-GZ, conducting research related to Security4AI.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 

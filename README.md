@@ -4,7 +4,7 @@
 
 - 🎓 I am a senior undergraduate student majoring in Information Security.
 
-- 🏫 I am currently working as a Research Assistant at **HKUST**-GZ, conducting research related to Security4AI.
+- 🏫 I am currently working as a Research Assistant at **HKUST**(GZ), conducting research related to Security4AI.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 <br>
@@ -19,7 +19,7 @@
 
 <!-- 
   <br><br>
-       ⚔️ 1. An attack scheme targeting large models in text-generated graphs.
+       ⚔️ 1. An attack scheme targeting LM in text-generated graphs.
   <br>
        🤖 2. Security issues of combining LLM with robotic vision.
   <br>

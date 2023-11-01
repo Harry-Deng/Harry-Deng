@@ -20,10 +20,9 @@
 | ------------- | ------------- |
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
+**I am able to utilize these tools**
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 

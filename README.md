@@ -8,9 +8,11 @@
 
 - I have been recently researching:
   <br>
-   🤖 1. Security issues of combining LLM with robotic vision
+   ⚔️ 1. An attack scheme targeting large models in text-generated graphs
   <br>
-  🚗 2. Security and Privacy Protection in VANETs
+   🤖 2. Security issues of combining LLM with robotic vision
+  <br>
+   🚗 3. Security and Privacy Protection in VANETs
 
 <br>
 

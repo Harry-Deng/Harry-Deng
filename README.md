@@ -7,10 +7,13 @@
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
 - I have been recently researching:
-- 🤖 1. Security issues of combining LLM with robotic vision
-- 🚗 2. Security and Privacy Protection in VANETs
+  <br>
+   🤖 1. Security issues of combining LLM with robotic vision
+  <br>
+  🚗 2. Security and Privacy Protection in VANETs
 
-   
+<br>
+
 **I am able to utilize these tools**
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -19,8 +22,8 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <p>
-
-
+<br>
+   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harry's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Deng&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
 

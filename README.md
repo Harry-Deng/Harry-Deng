@@ -36,14 +36,15 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/GUI-JavaFX-%233c3434?style=for-the-badge&logoColor=%23dbdbdb&labelColor=black&color=%237BDBC8">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaFX-GUI-black?style=for-the-badge&logoColor=white&labelColor=%2365E6D7">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Qt-GUI-black?style=for-the-badge&logo=qt&logoColor=%2341CD52&labelColor=%23969696" />   
     <br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> 
+
 <p>
 </div>
 <br>

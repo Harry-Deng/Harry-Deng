@@ -19,7 +19,7 @@
 
 <!-- 
   <br><br>
-       ⚔️ 1. An attack scheme targeting LM in text-generated graphs.
+       ⚔️ 1. An attack scheme targeting LM in Text2Image.
   <br>
        🤖 2. Security issues of combining LLM with robotic vision.
   <br>

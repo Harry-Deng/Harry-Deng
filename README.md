@@ -7,6 +7,8 @@
 - 🏫 I am currently working as a Research Assistant at **HKUST**(GZ), conducting research related to Security4AI.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
+
+- 📟 You can find my blog [here](dengemo.com).
 <br>
 
 **I have been recently researching**

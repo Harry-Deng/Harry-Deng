@@ -57,5 +57,5 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Carpe%20Diem.&font=Fira%20Code&center=true&color=C197F9&vCenter=true&size=30&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Move%20Fast%20and%20Break%20Things.&font=Fira%20Code&center=true&color=C197F9&vCenter=true&size=30&pause=1000&width=575&duration=2500"></a>
 </p>

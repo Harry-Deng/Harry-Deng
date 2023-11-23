@@ -8,7 +8,7 @@
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
-- 📟 You can find my blog [here](dengemo.com).
+- 📟 You can find my blog [here](www.dengemo.com).
 <br>
 
 **I have been recently researching**

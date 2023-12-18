@@ -11,7 +11,7 @@
 - 📟 You can find my blog [here](https://www.dengemo.com).
 <br>
 
-**I have been recently researching**
+**I have been conducting:**
 - ~~⚔️ An attack scheme targeting large models in text-generated graphs.~~ (Under Review)
   
 - 🤖 Security issues of combining LLM with robotic vision.

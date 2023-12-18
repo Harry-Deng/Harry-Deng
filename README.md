@@ -12,7 +12,7 @@
 <br>
 
 **I have been recently researching**
-- ⚔️ An attack scheme targeting large models in text-generated graphs.
+- ~~⚔️ An attack scheme targeting large models in text-generated graphs.~~ (Under Review)
   
 - 🤖 Security issues of combining LLM with robotic vision.
 

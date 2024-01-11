@@ -12,9 +12,9 @@
 <br>
 
 **I have been conducting:**
-- ~~⚔️ An attack scheme targeting large models in text-generated graphs.~~ (Under Review)
+- ~~⚔️ Bypassing the censorship of Text2Image large models.~~ (Under Review)
   
-- 🤖 Security issues of combining LLM with robotic vision.
+- 🤖 Security issues of Image Caption Model.
 
 - 🚗 Security and Privacy Protection in VANETs.
 <br>

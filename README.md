@@ -12,9 +12,9 @@
 <br>
 
 **I have been conducting:**
-- ~~⚔️ Bypassing the censorship of Text2Image large models.~~ (Under Review)
-  
 - 🤖 Security issues of Image Caption Model.
+
+- ~~⚔️ Bypassing the censorship of Text2Image large models.~~ (Under Review)
 
 - 🚗 Security and Privacy Protection in VANETs.
 <br>

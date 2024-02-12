@@ -14,7 +14,7 @@
 **I have been conducting:**
 - 🤖 Security issues of Image Caption Model.
 
-- ~~⚔️ Bypassing the censorship of Text2Image large models.~~ (Under Review)
+- ~~⚔️ Bypassing the censorship of Text2Image Engines.~~ (Under Review)
 
 - 🚗 Security and Privacy Protection in VANETs.
 <br>

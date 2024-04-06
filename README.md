@@ -2,21 +2,20 @@
 
 **About me**
 
-- 🎓 I am a senior undergraduate student majoring in Information Security.
+- 🎓 I am a undergraduate student majoring in Information Security.
 
-- 🏫 I am currently working as a Research Assistant at **HKUST**(GZ), conducting research related to Security4AI.
+- 🏫 I am currently working as a Research Assistant at HKUST(GZ), conducting research related to **Trustworthy AI**.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
 
-- 📟 You can find my blog [here](https://www.dengemo.com).
+- 📟 You can find my personal homepage [here](https://www.dengemo.com).
 <br>
 
 **I have been conducting:**
-- 🤖 Security issues of Image Caption Model.
+- 📹 Adversarial Attack on MMLLLMs from the Physical Domain.
 
 - ~~⚔️ Bypassing the censorship of Text2Image Engines.~~ (Under Review)
 
-- 🚗 Security and Privacy Protection in VANETs.
 <br>
 
 <!-- 

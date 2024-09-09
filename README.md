@@ -2,8 +2,6 @@
 
 **About me**
 
-- 🎓 I am a undergraduate student majoring in Information Security.
-
 - 🏫 I am currently working as a Research Assistant at HKUST(GZ), conducting research related to **Trustworthy AI**.
 
 - 💻 I enjoy researching and developing, and occasionally working on some fun projects.
